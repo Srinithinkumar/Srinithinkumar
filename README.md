@@ -26,8 +26,8 @@ Here are some technologies I've worked with:
 
 Feel free to connect with me on:
 
-- [LinkedIn]([https://www.linkedin.com/in/yourusername/](https://www.linkedin.com/in/gudipelly-srinithin-/))
-- [Instagram]([https://twitter.com/yourusername](https://www.instagram.com/mr.nithin_kumar/?next=%2F))
+- [LinkedIn](https://www.linkedin.com/in/gudipelly-srinithin-/)
+- [Instagram](https://www.instagram.com/mr.nithin_kumar/?next=%2F)
 - [Personal Website/Blog](https://nithinkumar.me/)
 
 Looking forward to connecting with fellow developers and creators! 😊
